@@ -1,10 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/jsFame/creative_nexus)
+  ![GitHub stars](https://img.shields.io/github/stars/jsFame/creative_nexus?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/jsFame/creative_nexus?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/laciferin?style=social)](https://twitter.com/intent/follow?screen_name=laciferin)
 
   <br />
   <br />
@@ -13,7 +12,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://jsFame.github.io/creative_nexus/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -36,18 +35,18 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
+sudo git clone https://github.com/jsFame/creative_nexus.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/portfolio.git
+git clone https://github.com/jsFame/creative_nexus.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/laciferin).
 
 ### License
 

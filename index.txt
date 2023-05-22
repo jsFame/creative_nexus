@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Hiro - Web Developer from New York
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Hiro
 
 aria-label = Toggle Menu
 
@@ -38,7 +38,7 @@ alt = I'm developer from New York
 
 Hello I'm
 
-Ethan Ward
+Hiro
 
 Web Developer from New York
 
@@ -84,7 +84,7 @@ Youtube
 
 Web Application for Desiverse
 
-View Project 
+View Project
 <ion-icon name="arrow-forward"></ion-icon>
 
 Vimeo
@@ -171,7 +171,7 @@ Jim Morisson Says when the musics over turn off the light
 
 &copy; 2022 codewithsadee. All Rights Reseverd
 
-Terms & Condition 
+Terms & Condition
 Privacy Policy
 
 
